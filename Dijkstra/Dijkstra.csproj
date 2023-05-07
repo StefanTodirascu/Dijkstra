@@ -43,12 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arco.cs" />
+    <Compile Include="Rotta.cs" />
     <Compile Include="Grafo.cs" />
-    <Compile Include="Nodo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Riga.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
